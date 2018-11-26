@@ -1,0 +1,2 @@
+model_checkpoint_path: "/usr/src/myapp/./models/dev__default__all/model_20181126-142213/intent_classifier_tensorflow_embedding.ckpt"
+all_model_checkpoint_paths: "/usr/src/myapp/./models/dev__default__all/model_20181126-142213/intent_classifier_tensorflow_embedding.ckpt"

@@ -1,0 +1,269 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "accesso",
+        "text": "autenticazione"
+      },
+      {
+        "intent": "accesso",
+        "text": "spid"
+      },
+      {
+        "intent": "accesso",
+        "text": "registrazione"
+      },
+      {
+        "intent": "affermazione",
+        "text": "\\uc3ac"
+      },
+      {
+        "intent": "affermazione",
+        "text": "ok"
+      },
+      {
+        "intent": "affermazione",
+        "text": "si"
+      },
+      {
+        "intent": "affermazione",
+        "text": "yes"
+      },
+      {
+        "intent": "autenticazione-forte",
+        "text": "Autenticazione forte"
+      },
+      {
+        "intent": "domiciliazione-pf",
+        "text": "fisiche"
+      },
+      {
+        "intent": "domiciliazione-pf",
+        "text": "fisica"
+      },
+      {
+        "intent": "domiciliazione-pf",
+        "text": "cittadino"
+      },
+      {
+        "intent": "domiciliazione-pg",
+        "text": "compagnia"
+      },
+      {
+        "intent": "domiciliazione-pg",
+        "text": "aziende"
+      },
+      {
+        "intent": "domiciliazione-pg",
+        "text": "azienda"
+      },
+      {
+        "intent": "domiciliazione-pg",
+        "text": "giuridica"
+      },
+      {
+        "intent": "domiciliazione-pg",
+        "text": "giuridiche"
+      },
+      {
+        "intent": "forget",
+        "text": "dimentica il mio nome"
+      },
+      {
+        "intent": "forget",
+        "text": "cancella il mio nome"
+      },
+      {
+        "intent": "forget",
+        "text": "addio"
+      },
+      {
+        "intent": "forget",
+        "text": "don't remember my name"
+      },
+      {
+        "intent": "forget",
+        "text": "delete my name from your memory"
+      },
+      {
+        "intent": "forget",
+        "text": "erase my name"
+      },
+      {
+        "intent": "forget",
+        "text": "forget name"
+      },
+      {
+        "intent": "forget",
+        "text": "forget"
+      },
+      {
+        "intent": "forget",
+        "text": "please forget my name"
+      },
+      {
+        "intent": "forget",
+        "text": "forget my name"
+      },
+      {
+        "intent": "hello",
+        "text": "addio"
+      },
+      {
+        "intent": "hello",
+        "text": "buona serata"
+      },
+      {
+        "intent": "hello",
+        "text": "buona sera"
+      },
+      {
+        "intent": "hello",
+        "text": "arrivederci"
+      },
+      {
+        "intent": "hello",
+        "text": "ciao"
+      },
+      {
+        "intent": "hello",
+        "text": "buon giorno"
+      },
+      {
+        "intent": "hello",
+        "text": "buon pomeriggio"
+      },
+      {
+        "intent": "hello",
+        "text": "salve"
+      },
+      {
+        "intent": "hello",
+        "text": "good day!"
+      },
+      {
+        "intent": "hello",
+        "text": "good morning"
+      },
+      {
+        "intent": "hello",
+        "text": "holla"
+      },
+      {
+        "intent": "hello",
+        "text": "bonjour"
+      },
+      {
+        "intent": "hello",
+        "text": "hey there"
+      },
+      {
+        "intent": "hello",
+        "text": "hi bot"
+      },
+      {
+        "intent": "hello",
+        "text": "hey bot"
+      },
+      {
+        "intent": "hello",
+        "text": "hey robot"
+      },
+      {
+        "intent": "hello",
+        "text": "hey!"
+      },
+      {
+        "intent": "hello",
+        "text": "hi"
+      },
+      {
+        "intent": "hello",
+        "text": "hello"
+      },
+      {
+        "intent": "modalita_presentazione",
+        "text": "come posso sottoscrivere il mandato?"
+      },
+      {
+        "intent": "modalita_presentazione",
+        "text": "tino"
+      },
+      {
+        "intent": "modalita_presentazione",
+        "text": "sottoscrizione"
+      },
+      {
+        "intent": "modalita_presentazione",
+        "text": "modulo"
+      },
+      {
+        "intent": "modalita_presentazione",
+        "text": "sottoscrivere"
+      },
+      {
+        "intent": "modalita_presentazione",
+        "text": "sottoscrivo"
+      },
+      {
+        "intent": "modalita_presentazione",
+        "text": "presento"
+      },
+      {
+        "intent": "modalita_presentazione",
+        "text": "adesione"
+      },
+      {
+        "intent": "modalita_presentazione",
+        "text": "presentare"
+      },
+      {
+        "intent": "modalita_presentazione",
+        "text": "presentazione"
+      },
+      {
+        "intent": "modalita_presentazione",
+        "text": "aderire"
+      },
+      {
+        "intent": "negazione",
+        "text": "non"
+      },
+      {
+        "intent": "negazione",
+        "text": "no"
+      },
+      {
+        "intent": "none",
+        "text": "!&#^&*$^*(%"
+      },
+      {
+        "intent": "none",
+        "text": "1234567"
+      },
+      {
+        "intent": "none",
+        "text": "abcdefg"
+      },
+      {
+        "intent": "revoca",
+        "text": "revocare"
+      },
+      {
+        "intent": "revoca",
+        "text": "revoca"
+      },
+      {
+        "intent": "veicolo-cointestato",
+        "text": "cointestato"
+      },
+      {
+        "intent": "veicolo-cointestato",
+        "text": "veicolo cointestato "
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": []
+  }
+}
