@@ -67,4 +67,21 @@ Five intents and one entity are definitely not enough to build an awesome assist
 - Enrich the `data/nlu_data.md` file with the intents you would like your bot to understand. Retrain the NLU model using the command above and see you assistant improving with every run!
 
 
-Make sure to let us know how you are getting on and what have you built. Visit [Rasa Consulting](http://jointech.io) and share your experience.
+##Botpress
+On botpress dir edit this config file:
+>
+vi config/nlu.json
+	{
+	  "intentsDir": "./generated/intents",
+ 	 "entitiesDir": "./generated/entities",	
+ 	 "provider": "native",
+	 "debugModeEnabled": true,
+ 	 "minimumConfidence": "0.3",
+ 	 "nativeAdjustementThreshold": "0.25"
+
+	} 
+	  
+
+##Make sure to let us know how you are getting on and what have you built. Visit [Rasa Consulting](http://jointech.io) and share your experience .
+
+###[http://jointech.io](http://jointech.io)
